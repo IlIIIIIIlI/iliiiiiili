@@ -17,4 +17,4 @@ IT Postgrad graduated from Unimelb last year. Now a tech enthusiast who speaks f
 
 Currently, I'm on a friendly but **not yet mastered** basis with the following skills (listed in the order we met):
 
-Python、Java、Vue、Bootstrap、MySQL、SpringBoot、Redis、SpringCloud、Docker、K8s、PHP、Flask、Next.js、TailWindCSS
+MySQL, Python, Java, R, NoSQL, Pytorch, Vue, Docker, PHP, Flask, ReactJS, TailWindCSS, Next.js
