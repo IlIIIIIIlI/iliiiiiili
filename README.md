@@ -10,8 +10,9 @@ IT Postgrad graduated from Unimelb last year. Now a tech enthusiast who speaks f
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iliiiiiili&theme=2077" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iliiiiiili&theme=2077" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iliiiiiili&theme=2077" />
   </a>
+  
 </div>
 
 
