@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi，My name is Andy Yang
 
-<!--
-**IlIIIIIIlI/iliiiiiili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Postgrad graduated from Unimelb last year. Now a tech enthusiast who speaks fluent Python and JavaScript. I weave code like poetry and tackle challenges like puzzles. My keyboard is my katana, JavaScript my dojo.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iliiiiiili&theme=2077" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iliiiiiili&theme=2077" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iliiiiiili&theme=2077" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Currently, I'm on a friendly but **not yet mastered** basis with the following skills (listed in the order we met):
+
+Python、Java、Vue、Bootstrap、MySQL、SpringBoot、Redis、SpringCloud、Docker、K8s、PHP、Flask、Next.js、TailWindCSS
