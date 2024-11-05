@@ -1,6 +1,6 @@
 ### Hi，My name is Andy Yang
 
-IT Postgrad graduated from Unimelb last year. Now a tech enthusiast who speaks fluent Python and JavaScript. I weave code like poetry and tackle challenges like puzzles. My keyboard is my katana, JavaScript my dojo.
+Tech enthusiast who speaks fluent Python and JavaScript. I weave code like poetry and tackle challenges like puzzles. My keyboard is my katana, JavaScript my dojo.
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
